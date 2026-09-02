@@ -101,6 +101,7 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2)
 st.divider()
 st.write("นายธรรศ พานเพชรสุขุม เลขที่ 13 ม.4/4")
+
 import time
 import streamlit as st
 
