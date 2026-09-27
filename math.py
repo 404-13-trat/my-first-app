@@ -165,7 +165,6 @@ ans4 = st.text_input(
 # ----------------------------------------------------
 st.write("### ข้อ 5
 st.write("จงหาค่า x จากสมการ  5x - 10 = 30")
-
 ans5 = st.text_input(
     "คำตอบข้อ 5",
     value=st.session_state.ans5_val
